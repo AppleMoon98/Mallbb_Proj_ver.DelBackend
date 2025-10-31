@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmallbb_project=self.webpackChunkmallbb_project||[]).push([[358],{358:(e,l,a)=>{a.r(l),a.d(l,{default:()=>s});var c=a(579);const s=()=>(0,c.jsx)("div",{children:(0,c.jsx)("h2",{children:"\ud574\ub2f9 \uae30\ub2a5\uc740 \uc815\uc9c0\ub418\uc5b4 \uc788\uc2b5\ub2c8\ub2e4. NaverCallback.js \ucc38\uace0"})})}}]);
+//# sourceMappingURL=358.d0091508.chunk.js.map
