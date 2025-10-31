@@ -1,0 +1,7 @@
+{
+    "codetogether.debug": true,
+    "codetogether.allowUnauthorizedCerts": true,
+    "codetogether.debugHttp": true,
+    "codetogether.terminal.revealOnGuestActivity": false,
+    "codetogether.virtualCursorJoin": "sharedVirtualCursor"
+}
